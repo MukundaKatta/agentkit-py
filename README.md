@@ -1,9 +1,9 @@
-# agentkit-py
+# mk-agentkit
 
 **The agent reliability stack in one install** — Python.
 
 ```bash
-pip install agentkit-py
+pip install mk-agentkit
 ```
 
 ```python
